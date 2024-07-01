@@ -1,5 +1,0 @@
-# Configurar estilos de fin de línea para archivos específicos o para todo el repositorio
-* text=auto eol=lf
-
-# Ejemplo específico para archivos individuales
-ArchivoA1.txt text eol=lf
