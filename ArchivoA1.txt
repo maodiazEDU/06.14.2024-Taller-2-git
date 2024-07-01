@@ -1,0 +1,3 @@
+Este es el primer archivo
+"Con esta línea edito en local y hago push desde local"
+"Con esta línea escribo en remoto y hago pull desde local"
